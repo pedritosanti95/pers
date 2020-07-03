@@ -1,3 +1,5 @@
 # pers
 
-Personal projects
+Hello world!
+
+Here are my personal projects
