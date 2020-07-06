@@ -2,6 +2,4 @@
 
 Hello world!
 
-Here are my personal projects
-
-Feel free to visit the repo
+Feel free to visit my projects
